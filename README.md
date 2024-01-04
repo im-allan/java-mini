@@ -4,8 +4,7 @@
 
 ## ¿Qué encontrarás aquí?
 
-En este repositorio, encontrarás una colección de pequeños proyectos escritos en Java. Cada proyecto aborda conceptos específicos de la programación orientada a objetos y ofrece una oportunidad práctica para aplicar lo que has aprendido.
-
+En este repositorio, encontrarás una colección de pequeños proyectos escritos en Java. Cada proyecto aborda conceptos específicos de la programación orientada a objetos.
 ## Proyectos Disponibles
 
 1. **Calculadora Simple 🧮**
