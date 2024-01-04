@@ -5,7 +5,7 @@ public class App {
         App juego = new App();
         juego.jugar();
     }
-
+ 
     private void jugar() {
         Riddle adivinanza = new Riddle();
         adivinanza.setNumero((int) (Math.random() * 100));
