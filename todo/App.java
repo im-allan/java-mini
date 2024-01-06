@@ -14,6 +14,6 @@ public class App {
   List<Task> tareas = gestorTareas.listarTareas();
   for (Task t : tareas) {
       System.out.println(t.getTitulo());
-  }
+  } 
 }
  
