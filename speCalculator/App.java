@@ -29,7 +29,7 @@ public class App {
                 break;
             case 2:
                 System.out.println("Ingrese la potencia:");
-                int p = sc.nextInt();
+                int p = sc.nextInt(); 
                 System.out.println(n + " elevado a la " + p + " es " + potencia(n, p));
                 break;
             default:
