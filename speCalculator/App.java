@@ -31,7 +31,7 @@ public class App {
                 System.out.println("Ingrese la potencia:"); 
                 int p = sc.nextInt(); 
                 System.out.println(n + " elevado a la " + p + " es " + potencia(n, p));
-                break;
+                break; 
             default:
                 System.out.println("Opción inválida");
                 break;
