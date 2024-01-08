@@ -20,7 +20,7 @@ public class App {
 
         System.out.println("¿Qué desea calcular?"); 
         System.out.println("1. Raíz cuadrada");  
-        System.out.println("2. Potencia"); 
+        System.out.println("2. Potencia");  
         int opcion = sc.nextInt(); 
   
         switch (opcion) {
