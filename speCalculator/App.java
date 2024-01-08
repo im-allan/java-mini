@@ -16,7 +16,7 @@ public class App {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Ingrese un número entero:");
-        int n = sc.nextInt(); 
+        int n = sc.nextInt();
 
         System.out.println("¿Qué desea calcular?"); 
         System.out.println("1. Raíz cuadrada");  
