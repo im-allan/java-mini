@@ -24,7 +24,7 @@ public class App {
         int opcion = sc.nextInt(); 
   
         switch (opcion) {
-            case 1:
+            case 1: 
                 System.out.println("La raíz cuadrada de " + n + " es " + raizCuadrada(n)); 
                 break; 
             case 2:  
