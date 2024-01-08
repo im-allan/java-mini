@@ -16,18 +16,18 @@ public class App {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Ingrese un número entero:");
-        int n = sc.nextInt();
+        int n = sc.nextInt(); 
 
         System.out.println("¿Qué desea calcular?");
         System.out.println("1. Raíz cuadrada");  
-        System.out.println("2. Potencia");
+        System.out.println("2. Potencia"); 
         int opcion = sc.nextInt(); 
   
         switch (opcion) {
             case 1:
                 System.out.println("La raíz cuadrada de " + n + " es " + raizCuadrada(n)); 
                 break; 
-            case 2: 
+            case 2:  
                 System.out.println("Ingrese la potencia:"); 
                 int p = sc.nextInt(); 
                 System.out.println(n + " elevado a la " + p + " es " + potencia(n, p));
