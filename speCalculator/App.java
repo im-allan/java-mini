@@ -33,7 +33,7 @@ public class App {
                 System.out.println(n + " elevado a la " + p + " es " + potencia(n, p));
                 break; 
             default:
-                System.out.println("Opción inválida");
+                System.out.println("Opción inválida"); 
                 break;
         } 
     } 
