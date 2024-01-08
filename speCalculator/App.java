@@ -19,7 +19,7 @@ public class App {
         int n = sc.nextInt();
 
         System.out.println("¿Qué desea calcular?");
-        System.out.println("1. Raíz cuadrada"); 
+        System.out.println("1. Raíz cuadrada");  
         System.out.println("2. Potencia");
         int opcion = sc.nextInt(); 
   
