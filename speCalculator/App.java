@@ -21,7 +21,7 @@ public class App {
         System.out.println("¿Qué desea calcular?");
         System.out.println("1. Raíz cuadrada");
         System.out.println("2. Potencia");
-        int opcion = sc.nextInt(); 
+        int opcion = sc.nextInt();
   
         switch (opcion) {
             case 1: 
