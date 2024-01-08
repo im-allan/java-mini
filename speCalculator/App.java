@@ -18,7 +18,7 @@ public class App {
         System.out.println("Ingrese un número entero:");
         int n = sc.nextInt(); 
 
-        System.out.println("¿Qué desea calcular?");
+        System.out.println("¿Qué desea calcular?"); 
         System.out.println("1. Raíz cuadrada");  
         System.out.println("2. Potencia"); 
         int opcion = sc.nextInt(); 
