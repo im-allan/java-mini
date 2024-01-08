@@ -22,7 +22,7 @@ public class App {
         System.out.println("1. Raíz cuadrada");
         System.out.println("2. Potencia");
         int opcion = sc.nextInt();
-  
+
         switch (opcion) {
             case 1: 
                 System.out.println("La raíz cuadrada de " + n + " es " + raizCuadrada(n)); 
