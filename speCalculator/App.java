@@ -27,7 +27,7 @@ public class App {
             case 1:
                 System.out.println("La raíz cuadrada de " + n + " es " + raizCuadrada(n));
                 break;
-            case 2:  
+            case 2: 
                 System.out.println("Ingrese la potencia:");  
                 int p = sc.nextInt(); 
                 System.out.println(n + " elevado a la " + p + " es " + potencia(n, p));
