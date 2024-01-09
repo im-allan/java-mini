@@ -25,7 +25,7 @@ public class App {
 
         switch (opcion) {
             case 1:
-                System.out.println("La raíz cuadrada de " + n + " es " + raizCuadrada(n)); 
+                System.out.println("La raíz cuadrada de " + n + " es " + raizCuadrada(n));
                 break; 
             case 2:  
                 System.out.println("Ingrese la potencia:");  
