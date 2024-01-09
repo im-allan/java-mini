@@ -35,6 +35,6 @@ public class App {
             default:
                 System.out.println("Opción inválida");
                 break;
-        } 
+        }
     } 
 } 
