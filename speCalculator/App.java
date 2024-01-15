@@ -36,5 +36,5 @@ public class App {
                 System.out.println("Opción inválida");
                 break;
         }
-    } 
+    }
 }
