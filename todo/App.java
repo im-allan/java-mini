@@ -13,7 +13,7 @@ public class App {
   // Listar las tareas 
   List<Task> tareas = gestorTareas.listarTareas();
   for (Task t : tareas) {
-      System.out.println(t.getTitulo());
+      System.out.println(t.getTitulo()); 
   } 
 }
  
