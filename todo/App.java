@@ -6,7 +6,7 @@ import java.util.Date;
 public class App { 
   TaskManager gestorTareas = new TaskManager();
 
-  // Agregar una tarea
+  // Agregar una tarea 
   Task tarea = new Task("Llamar al médico", new Date(), "Pendiente");
   gestorTareas.agregarTarea(tarea);
 
