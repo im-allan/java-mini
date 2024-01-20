@@ -3,7 +3,7 @@ package todo;
 import java.util.List;
 import java.util.Date;
 
-public class App {
+public class App { 
   TaskManager gestorTareas = new TaskManager();
 
   // Agregar una tarea
